@@ -1,0 +1,329 @@
+{
+  "Enabled Plugin": false,
+  "Population Settings": {
+    "loot": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "ores": {
+      "Enabled": true,
+      "Target Count": 127
+    },
+    "collectable-food-mushroom": {
+      "Enabled": true,
+      "Target Count": 320
+    },
+    "collectable-resource-hemp": {
+      "Enabled": true,
+      "Target Count": 320
+    },
+    "collectable-resource-stone": {
+      "Enabled": true,
+      "Target Count": 640
+    },
+    "plant-corn": {
+      "Enabled": true,
+      "Target Count": 80
+    },
+    "plant-pumpkin": {
+      "Enabled": true,
+      "Target Count": 80
+    },
+    "plant-berry-yellow": {
+      "Enabled": true,
+      "Target Count": 40
+    },
+    "plant-berry-white": {
+      "Enabled": true,
+      "Target Count": 40
+    },
+    "plant-berry-red": {
+      "Enabled": true,
+      "Target Count": 40
+    },
+    "plant-berry-green": {
+      "Enabled": true,
+      "Target Count": 40
+    },
+    "plant-berry-blue": {
+      "Enabled": true,
+      "Target Count": 40
+    },
+    "plant-potato": {
+      "Enabled": true,
+      "Target Count": 40
+    },
+    "divesites": {
+      "Enabled": true,
+      "Target Count": 32
+    },
+    "collectable-resource-wood": {
+      "Enabled": true,
+      "Target Count": 160
+    },
+    "swamp-trees": {
+      "Enabled": true,
+      "Target Count": 22
+    },
+    "junkpiles_water": {
+      "Enabled": true,
+      "Target Count": 64
+    },
+    "junkpiles": {
+      "Enabled": true,
+      "Target Count": 200
+    },
+    "driftwood": {
+      "Enabled": true,
+      "Target Count": 86
+    },
+    "logs_dry": {
+      "Enabled": true,
+      "Target Count": 78
+    },
+    "logs_snow": {
+      "Enabled": true,
+      "Target Count": 136
+    },
+    "logs_wet": {
+      "Enabled": true,
+      "Target Count": 120
+    },
+    "ores_snow": {
+      "Enabled": true,
+      "Target Count": 147
+    },
+    "ores_sand": {
+      "Enabled": true,
+      "Target Count": 39
+    },
+    "procmap_v3_arctic_forest_snow": {
+      "Enabled": true,
+      "Target Count": 457
+    },
+    "procmap_v3_arctic_forest": {
+      "Enabled": true,
+      "Target Count": 209
+    },
+    "procmap_v3_arid_palms_dense": {
+      "Enabled": true,
+      "Target Count": 30
+    },
+    "procmap_v3_arid_palm_beach": {
+      "Enabled": true,
+      "Target Count": 20
+    },
+    "procmap_v3_arid_palms_light": {
+      "Enabled": true,
+      "Target Count": 42
+    },
+    "procmap_v3_arid_palms_superdense": {
+      "Enabled": true,
+      "Target Count": 145
+    },
+    "procmap_v3_arid_cactus": {
+      "Enabled": true,
+      "Target Count": 268
+    },
+    "procmap_v3_tundra_forest": {
+      "Enabled": true,
+      "Target Count": 550
+    },
+    "procmap_v3_tundra_forest_small": {
+      "Enabled": true,
+      "Target Count": 99
+    },
+    "procmap_v3_temp_beachforest_small": {
+      "Enabled": true,
+      "Target Count": 9
+    },
+    "procmap_v3_temp_field_large": {
+      "Enabled": true,
+      "Target Count": 39
+    },
+    "procmap_v3_temp_field_small": {
+      "Enabled": true,
+      "Target Count": 592
+    },
+    "procmap_v3_temp_forest_deciduous": {
+      "Enabled": true,
+      "Target Count": 393
+    },
+    "procmap_v3_temp_forest_small_deciduous": {
+      "Enabled": true,
+      "Target Count": 102
+    },
+    "procmap_v3_temp_forest": {
+      "Enabled": true,
+      "Target Count": 246
+    },
+    "procmap_v3_temp_forest_small": {
+      "Enabled": true,
+      "Target Count": 50
+    },
+    "procmap_v3_arctic_forest_saplings": {
+      "Enabled": true,
+      "Target Count": 370
+    },
+    "procmap_v3_tundra_forest_saplings": {
+      "Enabled": true,
+      "Target Count": 330
+    },
+    "procmap_v3_bushes_temp_field": {
+      "Enabled": true,
+      "Target Count": 395
+    },
+    "procmap_v3_bushes_temp_forest": {
+      "Enabled": true,
+      "Target Count": 27
+    },
+    "procmap_v3_bushes_temp_forestside": {
+      "Enabled": true,
+      "Target Count": 91
+    },
+    "procmap_v3_bushes_temp_waterside": {
+      "Enabled": true,
+      "Target Count": 185
+    },
+    "procmap_v3_bushes_tundra_field": {
+      "Enabled": true,
+      "Target Count": 170
+    },
+    "procmap_v3_tundra_field_pines": {
+      "Enabled": true,
+      "Target Count": 215
+    },
+    "procmap_v3_tundra_field": {
+      "Enabled": true,
+      "Target Count": 76
+    },
+    "procmap_v3_bushes_arid_desert": {
+      "Enabled": true,
+      "Target Count": 614
+    },
+    "procmap_v3_bushes_arid_dry": {
+      "Enabled": true,
+      "Target Count": 98
+    },
+    "procmap_v3_bushes_arid_grass": {
+      "Enabled": true,
+      "Target Count": 409
+    },
+    "procmap_v3_bushes_arid_ocotillo": {
+      "Enabled": true,
+      "Target Count": 98
+    },
+    "procmap_v3_bushes_arctic_field": {
+      "Enabled": true,
+      "Target Count": 415
+    },
+    "procmap_v3_bushes_arctic_forest": {
+      "Enabled": true,
+      "Target Count": 86
+    },
+    "procmap_v3_bushes_arctic_forestside": {
+      "Enabled": true,
+      "Target Count": 3
+    },
+    "procmap_v3_bushes_arctic_railside": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "procmap_v3_bushes_arid_dry_railside": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "procmap_v3_bushes_temp_railside": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "procmap_v3_bushes_tundra_railside": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Tugboat.Population": {
+      "Enabled": true,
+      "Target Count": 2
+    },
+    "RHIB.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Rowboat.Population": {
+      "Enabled": true,
+      "Target Count": 4
+    },
+    "Minicopter.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "ModularCar.Population": {
+      "Enabled": true,
+      "Target Count": 12
+    },
+    "ScrapTransportHelicopter.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "traincars.population": {
+      "Enabled": true,
+      "Target Count": 9
+    },
+    "HAB.Population": {
+      "Enabled": true,
+      "Target Count": 4
+    },
+    "HalloweenDungeon.population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "XmasDungeon.population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Murderer.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Scarecrow.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Bear.Population": {
+      "Enabled": true,
+      "Target Count": 8
+    },
+    "PolarBear.Population": {
+      "Enabled": true,
+      "Target Count": 4
+    },
+    "Boar.Population": {
+      "Enabled": true,
+      "Target Count": 20
+    },
+    "Chicken.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Horse.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Stag.Population": {
+      "Enabled": true,
+      "Target Count": 12
+    },
+    "Wolf.Population": {
+      "Enabled": true,
+      "Target Count": 8
+    },
+    "Zombie.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "RidableHorse.Population": {
+      "Enabled": true,
+      "Target Count": 8
+    }
+  }
+}

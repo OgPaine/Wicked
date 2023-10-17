@@ -1,0 +1,352 @@
+{
+  "Main Settings": {
+    "Open when player joins": true,
+    "Open once per wipe": false,
+    "Open at tab": 1,
+    "Block movement when browsing panel": true,
+    "Enable text tags": true,
+    "Server Title": "<size=13>Welcome {playername} </size>",
+    "Server Logo": "",
+    "Selected button color": "0.204 1.000 0.078 0.20",
+    "Base Command": "info",
+    "Additional Commands": {
+      "rules": 2,
+      "help": 1
+    }
+  },
+  "Text Tabs": [
+    {
+      "Name": "             <size=13>Home</size>",
+      "Icon": "https://cdn.discordapp.com/attachments/1139999323296383007/1162366033361903637/wrhome.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "1.5",
+      "Font": "robotocondensed-bold.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 3,
+      "Text Lines": [
+        [
+          "<size=25>WIPE SCHEDULE <color=#34ff14ff>BIWEEKLY</color> @ <color=#34ff14ff>2:00PM</color> (CST)</size>",
+          "<size=25>GROUP LIMIT <color=#34ff14ff>MAX 8</color></size>",
+          "<size=25>MAPSIZE <color=#34ff14ff>{worldsize}</color></size> ",
+          "<size=25>ONLINE <color=#34ff14ff>{online}/{maxplayers}</color></size> ",
+          "\n",
+          "<size=15>Server is located in US. Blueprints are wiped monthly. server name is a hybrid with old rust and new. Guns, explosives, rockets and launchers can't be unlocked in the tech tree. You have to find blueprints to craft them. \n\n-No sleeping bag limit\n-Minicopters spawn on roads\n-Turrets previous to 10/5/2023  </size>"
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "             <size=13>Rules</size>",
+      "Icon": "https://cdn.discordapp.com/attachments/1139999323296383007/1162366033143808053/wprules.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "1.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 3,
+      "Text Lines": [
+        [
+          "<size=15><b>1. Community</b>\n•Racism/Homophobia/Bigotry will not be tolerated in the chat.\n•Spamming or advertising other servers, communities or clans is strictly prohibited.\n•Personal attacks, abusive behavior or doxing against any member of our community is not tolerated.\n\n<b>2. Gameplay</b>\nAny form of cheating will result in permanent ban without possibility to appeal.</size>",
+          "<size=15>Playing with cheaters/ban evaders will result in temporary ban\n•1 Gamebanned Alt - 365 Days since last gameban\n•Taking advantage of exploits knowingly without reporting them can result in temporary ban.</size>\n\n",
+          "<size=15><b>3. Reporting</b>\nAll reports are strictly handled through tickets on our discord or in game f7 reports. Please do not notify suspicious players by calling them out in global chat, report them instead. In all matters, admins have final word, if you wish to appeal please do so on our discord.</size>"
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "             <size=13>Vip Ranks</size>",
+      "Icon": "https://cdn.discordapp.com/attachments/1139999323296383007/1162366032887951471/wrVIP.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "1",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 4,
+      "Text Lines": [
+        []
+      ],
+      "Addon (plugin name)": "vipranks"
+    },
+    {
+      "Name": "             <size=13>Commands</size>",
+      "Icon": "https://cdn.discordapp.com/attachments/1139999323296383007/1162366032665649172/wrcommand.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "1.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 3,
+      "Text Lines": [
+        [
+          "<size=20>Basic commands </size>\n",
+          "<size=18><color=#34ff14ff>/info</color></size><size=16> - Opens info panel</size>\n",
+          "<size=18><color=#34ff14ff>/rules</color></size><size=16> - Give a brief description of the rules</size>\n",
+          "<size=18><color=#34ff14ff>/kit</color></size><size=16> - Claim server kits</size>\n",
+          "<size=20>Need a rank to use these commands  </size>\n",
+          "<size=18><color=#34ff14ff>/bskin</color></size><size=16>  - use DLC skins</size>\n",
+          "<size=18><color=#34ff14ff>/skin</color></size><size=16>  - use DLC skins</size>\n",
+          "<size=18><color=#34ff14ff>/sd</color></size><size=16> - skin already  deployed items</size>\n"
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "             <size=13>Links</size>",
+      "Icon": "https://cdn.discordapp.com/attachments/1139999323296383007/1162371958378336307/wrdiscord.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "1",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 4,
+      "Text Lines": [
+        []
+      ],
+      "Addon (plugin name)": "sociallinks"
+    },
+    {
+      "Name": "             <size=13>Wipecycle</size>",
+      "Icon": "https://cdn.discordapp.com/attachments/1139999323296383007/1162366032116195378/wrWip.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "1.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 3,
+      "Text Lines": [
+        [
+          "<size=20>Basic commands </size>\n",
+          "<size=18><color=#34ff14ff>/info</color></size><size=16> - Opens info panel</size>\n",
+          "<size=18><color=#34ff14ff>/rules</color></size><size=16> - Give a brief description of the rules</size>\n",
+          "<size=18><color=#34ff14ff>/kit</color></size><size=16> - Claim server kits</size>\n",
+          "<size=20>Need a rank to use these commands  </size>\n",
+          "<size=18><color=#34ff14ff>/bskin</color></size><size=16>  - use DLC skins</size>\n",
+          "<size=18><color=#34ff14ff>/skin</color></size><size=16>  - use DLC skins</size>\n",
+          "<size=18><color=#34ff14ff>/sd</color></size><size=16> - skin already  deployed items</size>\n"
+        ]
+      ],
+      "Addon (plugin name)": "wipecycle"
+    }
+  ],
+  "Base Ui Elements": {
+    "background": {
+      "Color": "0 0 0 0.8",
+      "Material": "assets/content/ui/uibackgroundblur.mat",
+      "Image": "",
+      "Anchor Min": "0 0",
+      "Anchor Max": "1 1",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "offset_container": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.5 0.5",
+      "Anchor Max": "0.5 0.5",
+      "Offset Min": "-680 -360",
+      "Offset Max": "680 360",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "main": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://cdn.discordapp.com/attachments/1143782218867675186/1160983249875632258/main1.png",
+      "Anchor Min": "0.32 0.175",
+      "Anchor Max": "0.80 0.77",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "side": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://cdn.discordapp.com/attachments/1143782218867675186/1161005110831370311/side2.png",
+      "Anchor Min": "0.185 0.175",
+      "Anchor Max": "0.32 0.77",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "content": {
+      "Color": "0 0 0 0.0",
+      "Material": "",
+      "Image": "https://cdn.discordapp.com/attachments/1139999323296383007/1161016396197670932/background.png",
+      "Anchor Min": "0.32 0.178",
+      "Anchor Max": "0.798 0.72",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "title": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.212 0.725",
+      "Anchor Max": "0.9 0.76",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 3,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "logo": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": null,
+      "Anchor Min": "0.191 0.728",
+      "Anchor Max": "0.206 0.755",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "close_button": {
+      "Color": "0 0 0 0",
+      "Material": "assets/content/ui/uibackgroundblur-ingamemenu.mat",
+      "Image": "",
+      "Anchor Min": "0.72 0.73",
+      "Anchor Max": "0.79 0.76",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": "<size=20><color=#b30e33>✘ Close</color></size>",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "next_button": {
+      "Color": "0 0 0 0.4",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://rustplugins.net/products/welcomepanellite/1/next.png",
+      "Anchor Min": "0.97 0.005",
+      "Anchor Max": "1 0.053",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": "",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "back_button": {
+      "Color": "0 0 0 0.4",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://rustplugins.net/products/welcomepanellite/1/back.png",
+      "Anchor Min": "0.935 0.005",
+      "Anchor Max": "0.965 0.053",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": "",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    }
+  },
+  "Tab Buttons": [
+    {
+      "Color": "1 1 1 0.10",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.664",
+      "Anchor Max": "0.32 0.714",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.13",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.614",
+      "Anchor Max": "0.32 0.664",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.10",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.564",
+      "Anchor Max": "0.32 0.614",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.13",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.514",
+      "Anchor Max": "0.32 0.564",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.10",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.464",
+      "Anchor Max": "0.32 0.514",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.13",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.414",
+      "Anchor Max": "0.32 0.464",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.10",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.364",
+      "Anchor Max": "0.32 0.414",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.13",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.314",
+      "Anchor Max": "0.32 0.364",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.10",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.264",
+      "Anchor Max": "0.32 0.314",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "1 1 1 0.13",
+      "Text Alignment": 3,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1855 0.214",
+      "Anchor Max": "0.32 0.264",
+      "Material": "assets/icons/iconmaterial.mat"
+    }
+  ]
+}

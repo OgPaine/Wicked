@@ -1,0 +1,24 @@
+{
+  "Building Attack Settings": {
+    "Cooldown Time": 30,
+    "Enabled": false
+  },
+  "Command Settings": {
+    "Chat Commands": [
+      "bgrade",
+      "grade"
+    ],
+    "Console Commands": [
+      "bgrade.up"
+    ]
+  },
+  "Destroy Data on Player Disconnect (for high pop servers)": false,
+  "Refund Settings": {
+    "Refund on Block": false
+  },
+  "Timer Settings": {
+    "Default Timer": 30,
+    "Enabled": false,
+    "Max Timer": 180
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "ResearchCosts": {},
+  "BlueprintRulesets": [
+    {
+      "Name": "disallowall",
+      "AllowedBlueprints": []
+    },
+    {
+      "Name": "allowall",
+      "DisallowedBlueprints": []
+    },
+    {
+      "Name": "Research",
+      "OptionalBlueprints": [
+        "rifle.ak",
+        "grenade.beancan",
+        "rifle.bolt",
+        "smg.2",
+        "shotgun.double",
+        "grenade.flashbang",
+        "grenade.f1",
+        "flamethrower",
+        "hmlmg",
+        "homingmissile.launcher",
+        "pistol.python",
+        "rocket.launcher",
+        "pistol.semiauto",
+        "rifle.semiauto",
+        "smg.thompson",
+        "shotgun.waterpipe"
+
+
+      ],
+      "DisallowedBlueprints": [
+        "rifle.ak",
+        "grenade.beancan",
+        "rifle.bolt",
+        "smg.2",
+        "shotgun.double",
+        "grenade.flashbang",
+        "grenade.f1",
+        "flamethrower",
+        "hmlmg",
+        "homingmissile.launcher",
+        "pistol.python",
+        "rocket.launcher",
+        "pistol.semiauto",
+        "rifle.semiauto",
+        "smg.thompson",
+        "shotgun.waterpipe"
+
+      ],
+      "BlueprintsWithNoPrerequisites": []
+    }
+  ]
+}

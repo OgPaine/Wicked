@@ -1,0 +1,6 @@
+{
+  "Chat Command": "freebuild",
+  "Require Chat Command": true,
+  "Free Deployables": true,
+  "Give Player Hidden Resources": true
+}

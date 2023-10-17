@@ -1,0 +1,87 @@
+{
+  "Building skin change commands": [
+    "bskin",
+    "building.skin"
+  ],
+  "Block building skin in building blocked": true,
+  "Automatically activate skin when player connects": false,
+  "Apply selected paint color to all building blocks": true,
+  "Number of blocks updated per tick": 5,
+  "Image and description settings": [
+    {
+      "Index": 0,
+      "NoSkinUrl": {
+        "Url": "https://www.dropbox.com/scl/fi/rxxqoikeuaobzg8kl4zqs/Hf0iXki.png?rlkey=hjb49erketuciu8nkjmtbif5n&dl=1",
+        "Title": "Wooden skin",
+        "index": -1
+      },
+      "SkinUrls": [
+        {
+          "Url": "",
+          "Title": "Brick skin",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "NoSkinUrl": {
+        "Url": "https://cdn.discordapp.com/attachments/1139999323296383007/1160047091016548514/sttone.png",
+        "Title": "Stone skin",
+        "index": -1
+      },
+      "SkinUrls": [
+        {
+          "Url": "https://cdn.discordapp.com/attachments/1139999323296383007/1160047090710351892/adobe.png",
+          "Title": "Adobe skin",
+          "index": 0
+        },
+        {
+          "Url": "https://cdn.discordapp.com/attachments/1139999323296383007/1160047090441912393/brick.png",
+          "Title": "Brick skin",
+          "index": 1
+        },
+        {
+          "Url": "https://cdn.discordapp.com/attachments/1139999323296383007/1160047090139938856/brut.png",
+          "Title": "Brutalist skin",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "NoSkinUrl": {
+        "Url": "https://cdn.discordapp.com/attachments/1139999323296383007/1160047089879879732/metal.png",
+        "Title": "Metal skin",
+        "index": -1
+      },
+      "SkinUrls": [
+        {
+          "Url": "https://cdn.discordapp.com/attachments/1139999323296383007/1160047892585783378/ship.png",
+          "Title": "Container skin",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "NoSkinUrl": {
+        "Url": "https://www.dropbox.com/scl/fi/9neksdfpevwyb8d9azoc7/ZvXnpO4.png?rlkey=ajzltym4cvudizfswku9s0ahv&dl=1",
+        "Title": "TopTier skin",
+        "index": -1
+      },
+      "SkinUrls": [
+        {
+          "Url": "",
+          "Title": "Brutalist skin",
+          "index": 0
+        }
+      ]
+    }
+  ],
+  "Version": {
+    "Major": 1,
+    "Minor": 1,
+    "Patch": 8
+  }
+}
